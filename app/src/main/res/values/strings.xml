@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="animais_sul">
+        <item >Curucaca</item>
+        <item >Gralha Azul</item>
+        <item >Graxaim</item>
+        <item >Ouriço</item>
+        <item >Quero Quero</item>
+    </string-array>
+</resources>
